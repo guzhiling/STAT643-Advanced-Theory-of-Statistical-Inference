@@ -7,3 +7,5 @@ This is a repo for the ISU course STAT643, instructed by Dr. Daniel Nordman.
 - Chapter 2: Sufficiency
 - Chapter 3: Basic Statistical Models
   - Bayes Model
+  - Exponential Family
+  - 
