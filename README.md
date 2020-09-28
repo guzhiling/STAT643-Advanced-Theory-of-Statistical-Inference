@@ -16,7 +16,7 @@ This is a repo for the ISU course STAT643, instructed by Dr. Daniel Nordman.
     - Fisher Information Regularizatin Conditions
     - Score function
     - Kullback-Leibler Information
- - Chapter 4: Statiscal Decision Theory
+- Chapter 4: Statiscal Decision Theory
   - Risk function
   - Admissible/ Inadmissible
   - Behavorial decision rule
