@@ -8,4 +8,17 @@ This is a repo for the ISU course STAT643, instructed by Dr. Daniel Nordman.
 - Chapter 3: Basic Statistical Models
   - Bayes Model
   - Exponential Family
-  - 
+    - Identifiable
+    - Natural parameter space
+    - Lehmann's Geometric Condition
+    - Curved Exponential Family
+   - Measures of Statistical Information
+    - Fisher Information Regularizatin Conditions
+    - Score function
+    - Kullback-Leibler Information
+ - Chapter 4: Statiscal Decision Theory
+  - Risk function
+  - Admissible/ Inadmissible
+  - Behavorial decision rule
+  - Randomized decision rule
+
