@@ -17,10 +17,16 @@ This is a repo for the ISU course STAT643, instructed by Dr. Daniel Nordman.
     - Score function
     - Kullback-Leibler Information
 - Chapter 4: Statiscal Decision Theory
-  - Loss Function & Risk function
-  - Admissible/ Inadmissible
-  - Behavorial decision rule
-  - Randomized decision rule
-  - Lower quadrant
+  - Basic framework
+    - Loss Function & Risk function
+    - Admissible/ Inadmissible
+    - Behavorial decision rule
+    - Randomized decision rule
+    - Lower quadrant
   - Complete class of decision rules
+  - Sufficiency and Decision Rules
+    - Rao Blackwell theorem
+  - Baye's Decision Rule
+  - Minimax Decision Rule
+
 
